@@ -91,6 +91,6 @@ void test1() {
 
 
 int main() {
-    test1()
+    test1();
     return 0;
 }
